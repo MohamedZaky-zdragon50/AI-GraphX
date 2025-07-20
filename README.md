@@ -120,7 +120,7 @@ This project allows users to:
 
 ## 📬 Contact
 
-**Author**: Mohamed Zaky
+**Author**: Mohamed Zaky\
 **Email**: [zakym6883@gmail.com](mailto\:zakym6883@gmail.com)\
 **GitHub**: [github.com/zakym6883](https://github.com/zakym6883)
 
