@@ -1,11 +1,11 @@
 # 🎨 AI GraphX - Graph Coloring Problem Solver
 
-AI GraphX is a smart and interactive **Graph Coloring Problem Solver** built using **Artificial Intelligence algorithms**:
+AI GraphX is a smart and interactive **Graph Coloring Problem Solver** built using **Artificial Intelligence algorithms**:\
 
 🧠 Backtracking Search Algorithm and 🧬 Genetic Algorithm.
 
-> **Developed for**:
-> Helwan National University – FCSIT
+> **Developed for**:\
+> Helwan National University – FCSIT\
 > CS212 Artificial Intelligence – Spring Semester 2024-2025
 
 ---
