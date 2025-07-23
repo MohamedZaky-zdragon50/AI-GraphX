@@ -119,11 +119,11 @@ This project allows users to:
 ---
 
 ## 👥 Team Members
-• Mohamed Zaky – GUI Development & Visualizer
-• Omar Ragap – Genetic Algorithm Implementation
-• Mohamed Ragab – Backtracking Algorithm
-• Abanoub Shenouda– Graph Logic Development
-• Mohamed Waleed – Core Integration & Fitness Plotting
+- Mohamed Zaky – GUI Development & Visualizer
+- Omar Ragap – Genetic Algorithm Implementation
+- Mohamed Ragab – Backtracking Algorithm
+- Abanoub Shenouda– Graph Logic Development
+- Mohamed Waleed – Core Integration & Fitness Plotting
 
 ---
 ## 📬 Contact
