@@ -118,6 +118,14 @@ This project allows users to:
 
 ---
 
+## 👥 Team Members
+- Mohamed Zaky - GUI & visualizer
+- Omar Ragap - Genetic Algorithm
+- Mohamed Ragap - Backtracking
+- Abanoub Shenouda - Graph 
+- Mohamed Waleed - Main code & Plot
+
+---
 ## 📬 Contact
 
 **Author**: Mohamed Zaky\
